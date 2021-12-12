@@ -75,8 +75,8 @@ Introduction of networks and selected **motivational examples**. From **classica
 
 ###### Lecture slides
 
-+ [**Networks introduction and motivational examples**](https://github.com/lovre/netpy21/blob/master/lectures/01-intro.pdf)
-+ [**Brief historical development of network science**](https://github.com/lovre/netpy21/blob/master/lectures/02-history.pdf)
++ [**Networks introduction and examples**](https://github.com/lovre/netpy21/blob/master/lectures/01-intro.pdf)
++ [**Historical development of network science**](https://github.com/lovre/netpy21/blob/master/lectures/02-history.pdf)
 + [**Network perspectives through science**](https://github.com/lovre/netpy21/blob/master/lectures/03-perspects.pdf) (tentative)
 
 ###### Book chapters
@@ -101,5 +101,22 @@ Introduction of networks and selected **motivational examples**. From **classica
 + Hidalgo, C.A., Disconnected, fragmented, or united? A trans-disciplinary review of network science, _Appl. Netw. Sci._ **1**, 6 (2016).
 
 ## 2. Large-scale network structure and graph models
+
+###### Brief description
+
+Classical **graph theory** and modern **network analysis**. **Random graphs** and **network structure**, and scale-free and small-world networks. **Network representations**, data formats and repositories. 
+
+![smallworld](figs/smallworld.png)
+
+###### Lecture slides
+
++ [**Graph theory and network analysis**](https://github.com/lovre/netpy21/blob/master/lectures/04-networkology.pdf)
++ [**Random graphs and network structure**](https://github.com/lovre/netpy21/blob/master/lectures/05-randoms.pdf)
++ [**Scale-free and small-world networks**](https://github.com/lovre/netpy21/blob/master/lectures/06-models.pdf) (tentative)
++ [**Network representations, formats and data**](https://github.com/lovre/netpy21/blob/master/lectures/07-represent.pdf)
+
+###### Hands-on analysis
+
++ [**Network structure and random graphs**](https://github.com/lovre/netpy21/blob/master/labs/structure.pdf) ([py](https://github.com/lovre/netpy21/blob/master/scripts/structure-starter.py))
 
 ### TBD

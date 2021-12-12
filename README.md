@@ -33,4 +33,42 @@ It is recommended that attendees bring a laptop with working installation of [Py
 
 + **Hands-on**: Abstraction, centrality, communities, visualization, learning etc. 
 
+###### Networks data
+
+All networks are available in Pajek, edge list in LNA formats.
+
++ [Simple toy example network](https://github.com/lovre/netpy21/blob/master/nets/toy.net) (5 nodes)
++ [Zachary's karate club network](https://github.com/lovre/netpy21/blob/master/nets/karate.net) (34 nodes)
++ [Davis's southern women network](https://github.com/lovre/netpy21/blob/master/nets/women.net) (32 nodes)
++ [Lusseau's bottlenose dolphins network](https://github.com/lovre/netpy21/blob/master/nets/dolphins.net) (62 nodes)
++ [Game of Thrones character appearance network](https://github.com/lovre/netpy21/blob/master/nets/got-appearance.net) (107 nodes)
++ [Human diseasome network by common symptoms](https://github.com/lovre/netpy21/blob/master/nets/diseasome.net) (117 nodes)
++ [Conflicts and alliances between world nations](https://github.com/lovre/netpy21/blob/master/nets/wars.net) (180 nodes)
++ [Game of Thrones character kills network](https://github.com/lovre/netpy21/blob/master/nets/got-kills.net) (284 nodes)
++ [Ljubljana public bus transport network](https://github.com/lovre/netpy21/blob/master/nets/lpp.net) (416 nodes)
++ [US airplane traffic transport network](https://github.com/lovre/netpy21/blob/master/nets/transport.net) (1,323 nodes)
++ [Java software class dependency network](https://github.com/lovre/netpy21/blob/master/nets/java.net) (1,516 nodes)
++ [Ingredients network by common compounds](https://github.com/lovre/netpy21/blob/master/nets/ingredients.net) (1,525 nodes)
++ [Map of Darknet from Tor network](https://github.com/lovre/netpy21/blob/master/nets/darknet.net) (7,178 nodes)
++ [IMDb actors collaboration network](https://github.com/lovre/netpy21/blob/master/nets/imdb.net) (17,577 nodes)
++ [Human protein-protein interaction network](https://github.com/lovre/netpy21/blob/master/nets/ppi.net) (19,634 nodes)
++ [WikiLeaks cable reference network](https://github.com/lovre/netpy21/blob/master/nets/wikileaks.net) (52,416 nodes)
++ [Internet map of autonomous systems](https://github.com/lovre/netpy21/blob/master/nets/internet.net) (75,885 nodes)
++ [Amazon product copurchase network](https://github.com/lovre/netpy21/blob/master/nets/amazon.net) (262,111 nodes)
++ [Paper citation network of APS](https://github.com/lovre/netpy21/blob/master/nets/aps.net) (438,943 nodes)
++ [Small part of Google web graph](https://github.com/lovre/netpy21/blob/master/nets/google.net) (875,713 nodes)
++ [Road/highway network of Texas](https://github.com/lovre/netpy21/blob/master/nets/texas.net) (1,379,917 nodes)
+
+## Guimera's four knights challenge
+
+###### Tentative duration
+
+**10 min**
+
+###### Challenge description
+
+To be **revealed in class** =)
+
+![4knights](figs/4knights.png)
+
 ### TBD

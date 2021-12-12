@@ -186,4 +186,54 @@ Node importance and **measures of centrality**, i.e. clustering coefficient, spe
 + Everett, M.G. & Valente, T.W., Bridging, brokerage and betweenness, _Soc. Networks_ **44**, 202-208 (2016).
 + Berkhin, P., A survey on PageRank computing, _Internet Math._ **2**(1), 73-120 (2005).
 
+## 4. Network clustering and mesoscopic structure
+
+###### Brief description
+
+Network **community structure**, blockmodeling and **core-periphery structure**. Graph partitioning, **community detection**, stochastic block models and **$k$-core decomposition**.
+
+![community](figs/community.png)
+
+###### Lecture slides
+
++ [**Node clustering and community structure**](https://github.com/lovre/netpy21/blob/master/lectures/11-community.pdf)
++ [**Graph partitioning and community detection**](https://github.com/lovre/netpy21/blob/master/lectures/12-clustering.pdf)
++ [**Blockmodeling and block models**](https://github.com/lovre/netpy21/blob/master/lectures/13-blockmodeling.pdf) (tentative)
++ [**Core-periphery decomposition**](https://github.com/lovre/netpy21/blob/master/lectures/14-cores.pdf) (tentative)
+
+###### Hands-on analysis
+
++ [**Community structure and $k$-cores**](https://github.com/lovre/netpy21/blob/master/labs/clusters.pdf) ([py](https://github.com/lovre/netpy21/blob/master/scripts/clusters-starter.py))
+
+###### Book chapters
+
++ Ch. 9: [Communities](http://networksciencebook.com/chapter/9) in Barabási, A.-L., [_Network Science_](http://networksciencebook.com) (Cambridge University Press, 2016).
++ Ch. 7.12-7.13: Homophily etc. & Ch. 11: Graph partitioning in Newman, M.E.J., [_Networks: An Introduction_](https://global.oup.com/academic/product/networks-9780198805090?cc=si&lang=en&) (Oxford University Press, 2010).
++ Ch. 21: Communities in networks in Estrada, E. & Knight, P.A., [_A First Course in Network Theory_](https://global.oup.com/academic/product/a-first-course-in-network-theory-9780198726463?cc=si&lang=en&) (Oxford University Press, 2015).
++ Ch. 3: [Strong and weak ties](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch03.pdf) in Easley, D. & Kleinberg, J., [_Networks, Crowds, and Markets_](https://www.cs.cornell.edu/home/kleinber/networks-book/) (Cambridge University Press, 2010).
+
+###### Selected must-reads
+
++ Hric, D., Darst, R.K. & Fortunato, S., [Community detection in networks: Structural communities versus ground truth](https://arxiv.org/abs/1406.0146), _Phys. Rev. E_ **90**(6), 062805 (2014).
++ Fortunato, S. & Hric, D., [Community detection in networks: A user guide](https://arxiv.org/abs/1608.00163), _Phys. Rep._ **659**, 1-44 (2016).
++ Schaub, M.T., Delvenne, J.-C. et al., [The many facets of community detection in complex networks](https://arxiv.org/abs/1611.07769), _Appl. Netw. Sci._ **2**, 4 (2017).
++ Rossetti, G., Milli, L., & Cazabet, R., [CDlib: A python library to extract, compare and evaluate communities from complex networks](https://link.springer.com/article/10.1007/s41109-019-0165-9), _Appl. Netw. Sci._ **4**(1), 1–26 (2019).
+
+###### Selected papers
+
++ Granovetter, M.S., The strength of weak ties, _Am. J. Sociol._ **78**(6), 1360-1380 (1973).
++ Girvan, M. & Newman, M.E.J., [Community structure in social and biological networks](https://arxiv.org/abs/cond-mat/0112110), _P. Natl. Acad. Sci. USA_ **99**(12), 7821-7826 (2002).
++ Fortunato, S., [Community detection in graphs](https://arxiv.org/abs/0906.0612), _Phys. Rep._ **486**(3-5), 75-174 (2010).
++ Leskovec, J., Lang, K.J. et al., [Community structure in large networks](https://arxiv.org/abs/0810.1355), _Internet Math._ **6**(1), 29–123 (2009).
++ Borgatti, S.P. & Everett, M.G., Models of core/periphery structures, _Soc. Networks_ **21**(4), 375–395 (2000).
++ Holme, P., [Core-periphery organization of complex networks](https://arxiv.org/abs/physics/0506035), _Phys. Rev. E_ **72**(4), 46111 (2005).
++ Newman, M.E.J. & Leicht, E.A., [Mixture models and exploratory analysis in networks](https://arxiv.org/abs/physics/0611158), _P. Natl. Acad. Sci. USA_ **104**(23), 9564 (2007).
++ Raghavan, U.N., Albert, R. & Kumara, S., [Near linear time algorithm to detect community structures in large-scale networks](https://arxiv.org/abs/0709.2938), _Phys. Rev. E_ **76**(3), 036106 (2007).
++ Rosvall, M. & Bergstrom, C.T., Maps of random walks on complex networks reveal community structure, _P. Natl. Acad. Sci. USA_ **105**(4), 1118-1123 (2008).
++ Blondel, V.D., Guillaume, J.-L. et al., [Fast unfolding of communities in large networks](https://arxiv.org/abs/0803.0476), _J. Stat. Mech._, P10008 (2008).
++ Traag, V.A., Waltman, L. & Van Eck, N.J., [From Louvain to Leiden: Guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z), _Sci. Rep._ **9**, 5233 (2019).
++ Peixoto, T.P., [Bayesian stochastic blockmodeling](http://arxiv.org/abs/1705.10225), e-print _arXiv:170510225v7_, pp. 44 (2018).
+
+## 5. Network visualization, machine learning and applications
+
 ### TBD

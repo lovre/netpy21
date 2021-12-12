@@ -61,14 +61,22 @@ All networks are available in Pajek, edge list in LNA formats.
 
 ## Guimera's four knights challenge
 
-###### Tentative duration
-
-**10 min**
-
-###### Challenge description
-
-To be **revealed in class** =)
+Challenge will be **revealed in class** =)
 
 ![4knights](figs/4knights.png)
+
+## 1. Classical graph theory → modern network science
+
+###### Brief description
+
+Introduction of networks and selected **motivational examples**. From **classical graph theory** to social network analysis and **modern network science**. Network perspectives in different **fields of science**.
+
+![transportation](figs/transportation.png)
+
+###### Lecture slides
+
++ [**Networks introduction and motivational examples**](https://github.com/lovre/netpy21/blob/master/lectures/01-intro.pdf)
++ [**Brief historical development of network science**](https://github.com/lovre/netpy21/blob/master/lectures/02-history.pdf)
++ [**Network perspectives through science**](https://github.com/lovre/netpy21/blob/master/lectures/03-perspects.pdf) (tentative)
 
 ### TBD

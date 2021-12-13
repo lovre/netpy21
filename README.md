@@ -20,7 +20,7 @@ The workshop is based on masters level course [Network Analysis](https://lovro.f
 
 ###### Recommended prerequisites
 
-It is recommended that attendees bring a laptop with working installation of [Python](http://www.python.org), [NetworkX](http://networkx.github.io), [CDlib](http://cdlib.readthedocs.io) and [node2vec](https://snap.stanford.edu/node2vec/) packages. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/). For visualization of smaller networks, it is recommended to install some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
+It is recommended that attendees bring a laptop with working installation of [Python](http://www.python.org), [NetworkX](http://networkx.github.io), [CDlib](http://cdlib.readthedocs.io) and [node2vec](https://github.com/eliorc/node2vec) packages. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/). For visualization of smaller networks, it is recommended to install some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
 
 ###### Tentative syllabus
 
@@ -245,15 +245,20 @@ Force-directed node layouts and **network visualization**. Modern **machine lear
 ###### Lecture slides
 
 + [**Network layout and visualization**](https://github.com/lovre/netpy21/blob/master/lectures/15-visuals.pdf)
-+ [**Machine learning with network data**](https://github.com/lovre/netpy21/blob/master/lectures/16-mining.pdf)
++ [**Machine learning with network data**](https://github.com/lovre/netpy21/blob/master/lectures/16-learning.pdf)
 + [**Insurance fraud detection**](https://github.com/lovre/netpy21/blob/master/lectures/1x-fraud.pdf) (application)
 + [**Tracking scientific knowledge**](https://github.com/lovre/netpy21/blob/master/lectures/1y-science.pdf) (application)
+
+###### Demo analysis
+
++ Node classification by features or embeddings ([py](https://github.com/lovre/netpy21/blob/master/scripts/learning-demo.py), [ows](https://github.com/lovre/netpy21/blob/master/scripts/learning-demo.ows))
 
 ###### Selected must-reads
 
 + Grover, A. & Leskovec, J., [node2vec](https://arxiv.org/abs/1607.00653), In: _Proceedings of KDD ’16_ (San Francisco, CA, USA, 2016), pp. 855-864.
 + Zanin, M., Papo, D. et al., [Combining complex networks and data mining: Why and how](https://arxiv.org/abs/1604.08816), _Phys. Rep._ **635**, 1-44 (2016).
-+ Ma, K.-L. & Muelder, C.W., Large-scale graph visualization and analytics, _Computer_ **46**(7), 39-46 (2013).
++ Makarov, I., Kiselev, D. et al., [Survey on graph embeddings and its applications to machine learning problems](https://peerj.com/articles/cs-357/), _PeerJ Comput. Sci._ **7**, e357 (2021).
++ Hamilton, W.L., [_Graph Representation Learning_](https://www.cs.mcgill.ca/~wlh/grl_book/), (Morgan and Claypool, 2020).
 
 ###### Selected papers
 
@@ -275,6 +280,7 @@ Force-directed node layouts and **network visualization**. Modern **machine lear
 + Fruchterman, T.M.J. & Reingold, E.M., Graph drawing by force-directed placement, _Softw: Pract. Exper_. **21**(11), 1129-1164 (1991).
 + Kobourov, S.G., [Spring embedders and force directed graph drawing algorithms](https://arxiv.org/abs/1201.3011), e-print _arXiv:1201.3011v1_, pp. 23 (2012).
 + Gibson, H., Faith, J. & Vickers, P., A survey of two-dimensional graph layout techniques for information visualisation, _Infor. Visual._ **12**(3-4), 324-357 (2013).
++ Ma, K.-L. & Muelder, C.W., Large-scale graph visualization and analytics, _Computer_ **46**(7), 39-46 (2013).
 
 <span> </span>
 
